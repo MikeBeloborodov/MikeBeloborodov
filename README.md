@@ -1,15 +1,3 @@
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Russia.<br><br>- 🔭 I’m working as a TypeScript developer.<br>- 📚 I'm currently learning React.<br>- ⚡ In my free time I watch lots of youtube...</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
